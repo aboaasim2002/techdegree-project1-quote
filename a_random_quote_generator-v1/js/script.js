@@ -103,7 +103,7 @@ number:1,
 // This function getRandomNumber....:
 function getRandomNumber(){
  
-  return Math.floor(Math.random() * 7)+0; 
+  return Math.floor(Math.random() * 8)+0; 
   }
 
 
